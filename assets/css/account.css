@@ -1,0 +1,25 @@
+.info{
+    display: flex;
+    position: relative;
+    
+}
+.info button{
+    position: absolute;
+    right: 0;
+}
+.info p {
+    padding-left: 120px;
+}
+
+
+#updateInfo{
+    margin-left: 200px;
+}
+.shows{
+    display: flex;
+}
+
+#formpush button { 
+ 
+    background-color: aqua;
+}
